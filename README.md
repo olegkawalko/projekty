@@ -1,2 +1,4 @@
 # projekty
-tu sa moje projekty
+tu są moje projekty,
+
+7 days Devops projects 
